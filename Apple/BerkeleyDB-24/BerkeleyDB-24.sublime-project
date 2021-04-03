@@ -6,7 +6,7 @@
             [
                 "*.o"
             ],
-            "path": "/Users/darbinreyes/dev/private_dev/subparprogrammer/C_src/Apple/BerkeleyDB-24/"
+            "path": "/Users/darbinreyes/dev/private_dev/C_src/Apple/BerkeleyDB-24/"
         }
     ]
 }

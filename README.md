@@ -44,5 +44,5 @@ From there, these seemed to be the best sources (links are to the code for memmo
         * This reveals that the code is used at part of [some university course](https://student.cs.uwaterloo.ca/~cs350/W21/).
         * Notice "os161-1.99" in the main page, this is the [name of the whole project](https://student.cs.uwaterloo.ca/~cs350/common/os161-src-html/doxygen/html/index.html).
         * What is os161? See [here "OS/161 Information"](https://student.cs.uwaterloo.ca/~cs350/W21/assignments/)
-                * The [OS/161 home page](http://os161.eecs.harvard.edu/) at Harvard. **Gold?!**
+                * The [OS/161 home page](http://os161.eecs.harvard.edu/) at Harvard. **Gold**
 * [Nice source 2](https://opensource.apple.com/source/BerkeleyDB/BerkeleyDB-6/db/clib/memmove.c)

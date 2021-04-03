@@ -2,9 +2,7 @@ In C, how do you implement memmove()? printf()? malloc()? Linux's list\_for\_eac
 
 # C source code - reputable references
 
-Sometimes, I want to know how some C function I am using is actually implemented, for example, the standard C library function `memmove()`. This directory contains a collection of open source C code to use as a reference. Each directory contains a **Sublime Text project**, which is essential for quickly finding what I'm looking for.
-
-* TODO -see bottom - decide where to commit - everything is .gitignored to begin with.
+Sometimes, I want to know how some C function I am using is actually implemented, for example, the standard C library function `memmove()`. This directory contains a collection of open source C code to use as a reference. Each directory contains a **Sublime Text project**, which is essential for quickly finding what I'm looking for. Since I have no need for keeping these in sync with the original repos, these are just straight copies of the code, rather than submodules or forks.
 
 * Running list of C code that I want to see:
     * Standard C lib.
@@ -20,7 +18,7 @@ Sometimes, I want to know how some C function I am using is actually implemented
         * pthread_create()
 
 
-#  In this directory \[local to my machine for now\]
+#  In this directory
 
 | Directory                  | What is it?                                                                                   | Where is it from?                                                                                               | Definitions confirmed to exist here. | Remarks                                                                                                                                                                                     |
 |:--------------------------:|:---------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------:|--------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

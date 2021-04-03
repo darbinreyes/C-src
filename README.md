@@ -1,3 +1,5 @@
+In C, how do you implement memmove()? printf()? malloc()? Linux's list\_for\_each()? This is a collection of C code, from reputable sources, to be used when you want to know how to implement it yourself.
+
 # C source code - reputable references
 
 Sometimes, I want to know how some C function I am using is actually implemented, for example, the standard C library function `memmove()`. This directory contains a collection of open source C code to use as a reference. Each directory contains a **Sublime Text project**, which is essential for quickly finding what I'm looking for.

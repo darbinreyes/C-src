@@ -46,12 +46,3 @@ From there, these seemed to be the best sources (links are to the code for memmo
         * What is os161? See [here "OS/161 Information"](https://student.cs.uwaterloo.ca/~cs350/W21/assignments/)
                 * The [OS/161 home page](http://os161.eecs.harvard.edu/) at Harvard. **Gold?!**
 * [Nice source 2](https://opensource.apple.com/source/BerkeleyDB/BerkeleyDB-6/db/clib/memmove.c)
-
-
-# TODO - decide where to commit - everything is .gitignored to begin with.
-
-* Create a local copy of everything, put it in my own private repo. C_src?
-* Use git submodule?
-* Will I ever need to change this code? - probably to add my own comments....?
-* How will I keep my subl projects safe?
-* Definitely don't want to lose all the effort I put into finding all this shit.

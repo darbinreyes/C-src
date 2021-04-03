@@ -14,7 +14,7 @@
    You should have received a copy of the GNU Lesser General Public
    License along with the GNU C Library; if not, see
    <https://www.gnu.org/licenses/>.  */
-
+// YO moma so fat...
 /*
  *	ISO C99 Standard 7.4: Character handling	<ctype.h>
  */

@@ -1,8 +1,28 @@
 In C, how do you implement memmove()? printf()? malloc()? Linux's list\_for\_each()? This is a collection of C code, from reputable sources, to be used when you want to know how to implement it yourself.
 
+# Update: January 30, 2026 - Just ask [Grok](grok.com)
+
+The recent ubiquity of LLM style AIs such as [Grok](grok.com), has made this
+repository less useful than originally envisioned.
+
+One can simply ask [Grok](grok.com) to point you to an open source
+implementation, as well as ask for an explanation of how the code works. This is
+particularly useful because open source code tends to lack explanatory comments.
+
+Moreover, for those seeking to improve their programming ability, it is very
+instructive to implement functions on your own, and then ask [Grok](grok.com) to
+provide feedback, and compare to existing open source implementations.
+
 # C source code - reputable references
 
-Sometimes, I want to know how some C function I am using is actually implemented, for example, the standard C library function `memmove()`. This directory contains a collection of open source C code to use as a reference. Each directory contains a **Sublime Text project**, which is essential for quickly finding what I'm looking for. Since I have no need for keeping these in sync with the original repos, these are just straight copies of the code, rather than submodules or forks.
+
+Sometimes, I want to know how some C function I am using is actually
+implemented, for example, the standard C library function `memmove()`. This
+directory contains a collection of open source C code to use as a reference.
+Each directory contains a **Sublime Text project**, which is essential for
+quickly finding what I'm looking for. Since I have no need for keeping these in
+sync with the original repos, these are just straight copies of the code, rather
+than submodules or forks.
 
 * Running list of C code that I want to see:
     * Standard C lib.
@@ -38,7 +58,7 @@ From there, these seemed to be the best sources (links are to the code for memmo
 
 * [Nice source 1](https://student.cs.uwaterloo.ca/~cs350/common/os161-src-html/doxygen/html/memmove_8c_source.html)
     * Figuring out how to download this source code without doing it one file at a time.
-        * Moving up a few directories: [a long list of files](https://student.cs.uwaterloo.ca/~cs350/common/). 
+        * Moving up a few directories: [a long list of files](https://student.cs.uwaterloo.ca/~cs350/common/).
         * This reveals that the code is used at part of [some university course](https://student.cs.uwaterloo.ca/~cs350/W21/).
         * Notice "os161-1.99" in the main page, this is the [name of the whole project](https://student.cs.uwaterloo.ca/~cs350/common/os161-src-html/doxygen/html/index.html).
         * What is os161? See [here "OS/161 Information"](https://student.cs.uwaterloo.ca/~cs350/W21/assignments/)
